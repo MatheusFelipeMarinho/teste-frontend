@@ -19,11 +19,11 @@ Como layout tomaremos como base as seguintes paginas.
   
    Pagina formulario:
 - [ ] Você devera recriar a pagina "Formulario" acima, o formulario devera conter validação dos dados antes de poder ser enviado.
-- [ ] Fique a vontade para mudar as cores e design caso ache necessário, mas precisa ser fiel ao layout.
+- [ ] Fique a vontade para mudar as cores e design caso ache necessário, mas a estrutura deve ser mantida.
 ##
    Pagina comprar:
 - [ ] Você devera recriar a pagina "Comprar" acima, devera recriar os cards dos produtos e quando clicar em comprar devera redirecionar para o link https://ev.braip.com/checkout/pla969r2/chek9177?split=12.
-- [ ] Fique a vontade para mudar as cores e design caso ache necessário, mas precisa ser fiel ao layout.
+- [ ] Fique a vontade para mudar as cores e design caso ache necessário, mas a estrutura deve ser mantida.
 
 ## Atenção!
 Validações de formulário ajudam o usuário a não se perder durante o preenchimento das informações  necessárias. Ajude  nessa causa 🙃.
